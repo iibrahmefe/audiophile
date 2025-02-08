@@ -1,0 +1,5 @@
+layout[x]
+pages[x]
+navbar[x]
+hero[]
+routes[x]
